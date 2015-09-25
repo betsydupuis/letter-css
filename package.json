@@ -1,0 +1,18 @@
+{
+  "name": "letter-css",
+  "version": "1.0.0",
+  "description": "CSS Framework for HTML Emails",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Betsy Dupuis",
+  "license": "MIT",
+  "dependencies": {
+    "assemble": "^0.6.0-beta.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-sass": "^1.1.0-beta"
+  }
+}
